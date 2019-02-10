@@ -1,0 +1,19 @@
+/*The stars background*/
+body {
+  background: #222229;
+  margin: 0;
+  max-height: 100vh;
+  overflow: hidden;
+}
+
+@keyframes twinkle {
+  0% {
+    opacity: 0.15;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.15;
+  }
+}
