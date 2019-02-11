@@ -18,3 +18,6 @@ GitHub Pages: https://jimmydejesus.github.io/Stepping-into-JavaScript/
 
 002.026 | Logical Operators | Assignment 2/10/2019
   -Added a logical operation to display whether someone is cool or not based on their age
+
+002.028 | While Loops | Assignment 2/10/2019
+  -Added a while loop to display in the console.log to display multiple amount of times my age whether it is lower or higher then the variable.
