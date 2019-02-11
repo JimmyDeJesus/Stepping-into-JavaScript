@@ -11,3 +11,6 @@ GitHub Pages: https://jimmydejesus.github.io/Stepping-into-JavaScript/
 
 002.021 | If Statements | Assignment 2/10/2019
   -We added a If statement to test.js to display a sentence if the statement is true.
+
+002.023 | Else If Statements | Assignment 2/10/2019
+  -Added a if else statment into the test.js file to display the variables age
