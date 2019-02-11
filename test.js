@@ -2,46 +2,14 @@
      -creates a JavaScript pop-up before the page loads.*/
 alert("Hello, World/Mundo/Sekai!");
 
-/*002.021 This if,else statement shows if the statement is true in this case
-          if youLikeSpace is true display "Your gonna carry that weight..."*/
-var youLikeSpace = true;
 
-if (youLikeSpace) {
+/*002.028 this is a while loop that continues if you dont exit it.*/
+var age = 5;
 
-    document.write("You're gonna carry that weight...");
-  } else{
+while (age < 10) {
 
-    document.write("see you space cowboy...");
-  }
-/*002.023 Created a if else program that display the age if true*/
-var myAge = 31;
-
-if (myAge >30){
-
-    document.write("you are over 30!");
-
-  } else if (myAge > 20){
-
-    document.write("you are over 20!");
-
-  } else if (myAge > 10){
-
-    document.write("you are over 10!");
-  } else{
-
-    document.write("you are not over 10!");
-
-
+    console.log("Your age is less than 10");
+    age++;
 }
-/*002.026 Created a logical operation to see
-            if your cool or not by checking if you age is true to a statment.*/
-var myAge = 26;
 
-if (myAge < 18 || myAge > 30 || myAge === 25){
-
-    document.write("You aint coming!");
-
-} else{
-
-    document.write(" You can come, you cool dude");
-}
+document.write("you are now over 10");
