@@ -13,4 +13,8 @@ GitHub Pages: https://jimmydejesus.github.io/Stepping-into-JavaScript/
   -We added a If statement to test.js to display a sentence if the statement is true.
 
 002.023 | Else If Statements | Assignment 2/10/2019
-  -Added a if else statment into the test.js file to display the variables age
+  -Added a if else statement into the test.js file to display the variables age
+
+
+002.026 | Logical Operators | Assignment 2/10/2019
+  -Added a logical operation to display whether someone is cool or not based on their age
