@@ -14,7 +14,7 @@ if (youLikeSpace) {
     document.write("see you space cowboy...");
   }
 
-var myAge = 29;
+var myAge = 31;
 
 if (myAge >30){
 
