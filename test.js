@@ -8,12 +8,12 @@ var youLikeSpace = true;
 
 if (youLikeSpace) {
 
-    document.write("Your gonna carry that weight...");
+    document.write("You're gonna carry that weight...");
   } else{
 
     document.write("see you space cowboy...");
   }
-
+/*002.023 Created a if else program that display the age if true*/
 var myAge = 31;
 
 if (myAge >30){
@@ -32,4 +32,16 @@ if (myAge >30){
     document.write("you are not over 10!");
 
 
+}
+/*002.026 Created a logical operation to see
+            if your cool or not by checking if you age is true to a statment.*/
+var myAge = 26;
+
+if (myAge < 18 || myAge > 30 || myAge === 25){
+
+    document.write("You aint coming!");
+
+} else{
+
+    document.write(" You can come, you cool dude");
 }
