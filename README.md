@@ -21,3 +21,8 @@ GitHub Pages: https://jimmydejesus.github.io/Stepping-into-JavaScript/
 
 002.028 | While Loops | Assignment 2/10/2019
   -Added a while loop to display in the console.log to display multiple amount of times my age whether it is lower or higher then the variable.
+
+Assignment-007 For Loops 2/19/2019
+
+  -added a for loop function useing links we added in the html
+  -added console logs to the JavaScript
