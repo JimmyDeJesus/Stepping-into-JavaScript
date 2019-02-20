@@ -2,11 +2,13 @@
      -creates a JavaScript pop-up before the page loads.*/
 alert("Hello, World/Mundo/Sekai!");
 
-/*Assignment-009 ~ The begining of our
-                    for loop method that lets us cycle through elements in the page and do things to them */
-var links = document.getElementsByTagName("a");
+/*Assignment-010 ~ we start useing the getAverage function to specify what we are dividing*/
+function getAverage (a,b,c,d,e,f){
 
-for(i = 0; i < links.length; i++) {
-
-      links[i].className = "link-" + i;
+      var average = (a + b + c + d + e + f) / 6;
+      console.log(average);
+      return average;
 }
+/*Assignment-010 ~ this is a statement calling the average up above*/
+var myResult = getAverage(7,8,9,10,11,12);
+console.log("the average is " + myResult);
