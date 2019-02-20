@@ -24,5 +24,9 @@ GitHub Pages: https://jimmydejesus.github.io/Stepping-into-JavaScript/
 
 Assignment-007 For Loops 2/19/2019
 
-  -added a for loop function useing links we added in the html
+  -added a for loop function using links we added in the html
   -added console logs to the JavaScript
+
+Assignment-008 Break & Continue 2/19/2019
+
+  -added a for loop function using the test.js file
