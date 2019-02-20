@@ -37,7 +37,11 @@ Assignment-007 For Loops 2/19/2019
 Assignment-008 Break & Continue 2/19/2019
 
   -added a for loop function using the test.js file
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Assignment-009 Practical Example using Loops 2/19/2019
 
   -added a loop function in the test.js file to show a different more practical way of using loops
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Assignment-010 Functions
+
+  -added a loop function to demo how to find the average in the test.js file
