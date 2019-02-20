@@ -2,14 +2,12 @@
      -creates a JavaScript pop-up before the page loads.*/
 alert("Hello, World/Mundo/Sekai!");
 
+/*Assignment-007 ~ The begining of our for loop method */
+var links = document.getElementsByTagName("a");
 
-/*002.028 this is a while loop that continues if you dont exit it.*/
-var age = 5;
+for (i = 1; i < links.length; i++) {
 
-while (age < 10) {
+    console.log("this is link number" + i);
 
-    console.log("Your age is less than 10");
-    age++;
 }
-
-document.write("you are now over 10");
+document.write("all links now looped");
