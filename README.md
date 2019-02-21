@@ -45,3 +45,8 @@ Assignment-009 Practical Example using Loops 2/19/2019
 Assignment-010 Functions
 
   -added a loop function to demo how to find the average in the test.js file
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Assignment-011 Variable Scope
+
+  - we've added a global scope and a local scope within the function in the test.js
